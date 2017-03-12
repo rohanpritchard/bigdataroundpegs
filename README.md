@@ -1,5 +1,5 @@
 # The Round Pegs and Square Holes of Big Data - Code Scripts
-The following scripts have been written in python, and correspond to various examples written on our website on big data. In these examples I have made use of matplotlib, and scikit. I have also made use of the sample datasets available with scikit.
+The following scripts have been written in python, and correspond to various examples written on our website on big data. In these examples I have made use of matplotlib, and SciKit. I have also made use of the sample datasets available with SciKit.
 
 ## Basic Regression Examples
 Referred to at: [LINK HERE]. Shows the advantage in some instances of implementing random forests. When working with noisy data.
