@@ -5,7 +5,13 @@ import matplotlib.pyplot as plt
 digits = load_digits()
 print(digits.data.shape)
 
+# Enter data point to view:
+x = 98
+
+# Print point values
+print digits.images[x]
+
 # Visualise point
 plt.gray()
-plt.matshow(digits.images[98])  # Enter datapoint index here
+plt.matshow(digits.images[x])
 plt.show()
